@@ -1,3 +1,10 @@
+# Quick Links
+ - [Project Notebook](code/notebook.ipynb)
+ - [Non-Technical Presentation Deck](presentation/presentation.pdf)
+ - [Website and blog](https://sethchart.com)
+ - [LinkedIn](https://www.linkedin.com/in/sethchart)
+ - [Twitter](https://twitter.com/sethchart)
+
 # Outline
 
 For this project, we imagine that an individual is moving the city of Baltimore, Maryland. They plan to buy a residential property somewhere within city limits and live there for two years. After two years have passed they plan to sell their property and move to a new city. They want to restrict their search for a property to five zip codes that have the highest expected return on investment for buying, holding for two years, and then selling a residential property.
@@ -10,9 +17,13 @@ To keep out analysis organized and maximize re-usability of our code, we have de
 
 # Conclusion
 
- - We have successfully identified 21213, 21229, 21216, 21239, and 21226 as the best five zip codes for our client's needs. 
  - By developing our analysis at the zip code level and wrapping our city-wide model in a class with high level methods, we have made the complex structure of our model accessible and easy to work with, keeping most of the complexity encapsulated within the class.
  - Our approach is portable and scalable. The model can be applied directly to any locality where Zillow data is available, and the only limiting factor for the number of zip codes included is computational resources.
 
 # Recommendation
+
+We have successfully identified 21213, 21229, 21216, 21239, and 21226 as the best five zip codes for our client's needs. 
+| Zip Code | Return on Investment |
+|---|---|
+
 <img src="images/zip_code_map.png" title="Zip Code Map of ROI"/>

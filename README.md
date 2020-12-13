@@ -15,4 +15,4 @@ To keep out analysis organized and maximize re-usability of our code, we have de
  - Our approach is portable and scalable. The model can be applied directly to any locality where Zillow data is available, and the only limiting factor for the number of zip codes included is computational resources.
 
 # Recommendation
-<iframe src="images/zip_code_map.html" title="Zip Code Map of ROI"></iframe>
+<img src="images/zip_code_map.png" title="Zip Code Map of ROI"/>

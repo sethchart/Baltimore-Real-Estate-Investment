@@ -25,5 +25,9 @@ To keep out analysis organized and maximize re-usability of our code, we have de
 We have successfully identified 21213, 21229, 21216, 21239, and 21226 as the best five zip codes for our client's needs. 
 | Zip Code | Return on Investment |
 |---|---|
-
+|21213|30%|
+|21229|20%|
+|21216|19%|
+|21239|16%|
+|21226|14%|
 <img src="images/zip_code_map.png" title="Zip Code Map of ROI"/>
